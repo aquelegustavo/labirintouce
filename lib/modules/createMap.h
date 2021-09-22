@@ -6,7 +6,7 @@
 #include "../global.h"
 
 int *getNextBoardPosition(int lastBoard[]);
-void creatMap()
+void createMap()
 {
     rowsNumber = getRandom(MIN_NUMBER, MAX_NUMBER);
     columnsNumber = getRandom(MIN_NUMBER, MAX_NUMBER);

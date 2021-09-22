@@ -6,7 +6,7 @@ typedef int bool;
 
 #include "global.h"
 
-#include "modules/drawMap.h"
+#include "modules/createMap.h"
 #include "modules/playerMove.h"
 
 int main()
@@ -15,7 +15,7 @@ int main()
     // Geração de números aleatórios
     srand(time(0));
 
-    creatMap();
+    createMap();
 
     if (playerMove() == END_GAME)
     {
