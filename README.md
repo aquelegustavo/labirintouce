@@ -4,6 +4,12 @@ O joguinho de labirinto totalmente escrito na linguagem C para o trabalho de con
 <br/><br/>
 ![](./cover.png)
 
+## O jogo
+
+O(a) jogador(a), deve sair da posição incial e chegar até o final do labirinto tentando evitar ao máximo bater nas paredes ( \* ) e nas laterais ( | ).
+
+Ao final do jogo, o histórico de jogadas assim como informações gerais daquela partida são adicionadas ao documento `output.txt`. Confira um [exemplo do histórico](./example.txt) gerado.
+
 ## Instalação
 
 ```sh
@@ -38,12 +44,6 @@ Então, execute o arquivo de saída.
 
 Demonstração do programa em formato gif:
 ![Demonstração em gif do código em execução](./demo.gif)
-
-## O jogo
-
-O(a) jogador(a), deve sair da posição incial e chegar até o final do labirinto tentando evitar ao máximo bater nas paredes ( \* ) e nas laterais ( | ).
-
-Ao final do jogo, o histórico de jogadas assim como informações gerais daquela partida são adicionadas ao documento `output.txt`. Confira um [exemplo do histórico](./example.txt) gerado.
 
 ## Meta
 
