@@ -1,10 +1,8 @@
 #ifndef GLOBAL_H
 #define GLOBAL_H
 
+#include <stdbool.h>
 #include "utils/getRandom.h"
-
-#define true (1 == 1)
-#define false (!true)
 
 #define DEBUG_MODE false
 #define DEBUG 7
@@ -29,6 +27,10 @@
 #define MAX_NUMBER (DEBUG_MODE ? 10 : 30)
 #define MIN_NUMBER (DEBUG_MODE ? 5 : 10)
 
+#define DIA
+#define MES
+#define H
+
 #define RESET "\033[0m"
 #define BLACK "\033[30m"   /* Black */
 #define RED "\033[31m"     /* Red */
@@ -38,10 +40,12 @@
 #define MAGENTA "\033[35m" /* Magenta */
 #define CYAN "\033[36m"    /* Cyan */
 #define WHITE "\033[37m"   /* White */
+#define SPACE "      "
 
 /* Usuarios de Windows, troquem "clear" por "cls" */
 #define LIMPARTELA "clear"
 // Declaração do número de linhas e colunas do mapa
+
 int rowsNumber,
     columnsNumber;
 
@@ -49,5 +53,9 @@ int rowsNumber,
 int **map;
 
 int playerCurrentPosition[2] = {0, 0};
+
+int invalidMovesCounter = 0;
+
+FILE *outputFile;
 
 #endif

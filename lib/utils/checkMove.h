@@ -2,6 +2,7 @@
 #define CHECK_MOVE_H
 
 #include <stdio.h>
+#include <stdbool.h>
 
 #include "../global.h"
 

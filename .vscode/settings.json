@@ -1,5 +1,7 @@
 {
   "files.associations": {
-    "playermove.h": "c"
+    "playermove.h": "c",
+    "time.h": "c",
+    "drawmap.h": "c"
   }
 }

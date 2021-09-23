@@ -1,12 +1,12 @@
 #ifndef PLAYER_MOVE_H
 #define PLAYER_MOVE_H
 
-typedef int bool;
-
 #include <stdio.h>
+
 #include "../global.h"
 #include "../utils/checkMove.h"
 #include "../utils/drawMap.h"
+#include "../utils/invalidMove.h"
 
 struct possibleMoves
 {
@@ -16,6 +16,7 @@ struct possibleMoves possibleMove;
 
 int playerMove()
 {
+    fprintf(outputFile, "\n>> Histórico de jogadas:\n\n");
 
     char move;
     while ((move != 'x') && (move != 'X'))
@@ -30,7 +31,7 @@ int playerMove()
         }
 
         // Mostrar direções
-        printf("\n\n  (W)\n(A)+(D)\n  (S)\n\n");
+        printf(YELLOW "\n\n  (W)\n(A)+(D)\n  (S)\n\n" RESET);
 
         if (DEBUG_MODE)
         {
@@ -60,10 +61,11 @@ int playerMove()
             if (checkMove(possibleMove.w))
             {
                 playerCurrentPosition[X] = (playerCurrentPosition[X] - 1);
+                fprintf(outputFile, "Jogador(a) foi para cima (W)\n");
             }
             else
             {
-                printf("\n\nups.. ali não =)\n");
+                invalidMove();
                 getchar();
                 getchar();
             }
@@ -74,10 +76,11 @@ int playerMove()
             if (checkMove(possibleMove.s))
             {
                 playerCurrentPosition[X] = playerCurrentPosition[X] + 1;
+                fprintf(outputFile, "Jogador(a) foi para baixo (S)\n");
             }
             else
             {
-                printf("\n\nups.. ali não =)\n");
+                invalidMove();
                 getchar();
                 getchar();
             }
@@ -88,10 +91,11 @@ int playerMove()
             if (checkMove(possibleMove.d))
             {
                 playerCurrentPosition[Y] = playerCurrentPosition[Y] + 1;
+                fprintf(outputFile, "Jogador(a) foi para a direita (D)\n");
             }
             else
             {
-                printf("\n\nups.. ali não =)\n");
+                invalidMove();
                 getchar();
                 getchar();
             }
@@ -102,16 +106,15 @@ int playerMove()
             if (checkMove(possibleMove.a))
             {
                 playerCurrentPosition[Y] = playerCurrentPosition[Y] - 1;
+                fprintf(outputFile, "Jogador(a) foi para a esquerda <3 (A)\n");
             }
             else
             {
-                printf("\n\nups.. ali não =)\n");
+                invalidMove();
                 getchar();
                 getchar();
             }
         }
-
-        //map[playerCurrentPosition[X]][playerCurrentPosition[Y]] = PLAYER;
     }
     return OK;
 }
