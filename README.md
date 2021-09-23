@@ -2,6 +2,7 @@
 
 O joguinho de labirinto totalmente escrito na linguagem C para o trabalho de conclusão da diciplina Linguagem de Programação I da Universidade Federal de Santa Catarina (UFSC).
 <br/><br/>
+![](./cover.png)
 
 ## Instalação
 
