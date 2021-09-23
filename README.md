@@ -40,21 +40,21 @@ Demonstração do programa em formato gif:
 
 ## O jogo
 
-O(a) jogador(a), deve sair da posição incial e chegar até o final do labirinto tentando evitar ao máximo bater nas paredes (\*) e nas laterais (|).
+O(a) jogador(a), deve sair da posição incial e chegar até o final do labirinto tentando evitar ao máximo bater nas paredes ( \* ) e nas laterais ( | ).
 
-Ao final do jogo, o histórico de jogadas assim como informações gerais daquela partida são adicionadas ao documento `output.txt`. Confira um exemplo do histórico([)./example.txt] gerado.
+Ao final do jogo, o histórico de jogadas assim como informações gerais daquela partida são adicionadas ao documento `output.txt`. Confira um [exemplo do histórico](./example.txt) gerado.
 
 ## Meta
 
-Gustavo Simões – [@AqueleGustavoLa](https://twitter.com/AqueleGustavoLa)
+Twitter – [@AqueleGustavoLa](https://twitter.com/AqueleGustavoLa)
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 [https://github.com/aquelegustavo](https://github.com/aquelegustavo)
 
-## Contributing
+## Contribuição
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/aquelegustavo/labirintouce/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
