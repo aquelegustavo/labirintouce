@@ -1,0 +1,219 @@
+----------------- JOGO DO LABIRINTO-----------------
+
+>> Histórico de jogadas:
+
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) venceu o jogo!
+
+
+>> Informações gerais:
+
+Labirinto formado por 24 linhas e 29 colunas
+Jogador(a) bateu 1 vez(es) na parede!
+
+Início do jogo: 23/09/2021 00:30:12
+Fim do jogo: 23/09/2021 00:30:37
+
+
+[FIM]
+
+
+
+----------------- LABIRINTOUCE: O JOGO DO LABIRINTO -----------------
+
+>> Histórico de jogadas:
+
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) bateu na parede!
+Jogador(a) foi para cima (W)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) venceu o jogo!
+
+
+>> Informações gerais:
+
+Labirinto formado por 17 linhas e 18 colunas
+Jogador(a) bateu 4 vez(es) na parede!
+
+Início do jogo: 23/09/2021 00:54:41
+Fim do jogo: 23/09/2021 00:55:59
+
+
+[FIM]
+
+
+
+----------------- LABIRINTOUCE: O JOGO DO LABIRINTO -----------------
+
+>> Histórico de jogadas:
+
+
+
+
+>> Informações gerais:
+
+Labirinto formado por 17 linhas e 20 colunas
+Jogador(a) bateu 0 vez(es) na parede!
+
+Início do jogo: 23/09/2021 00:57:08
+Fim do jogo: 23/09/2021 00:57:12
+
+
+[FIM]
+
+
+
+----------------- LABIRINTOUCE: O JOGO DO LABIRINTO -----------------
+
+>> Histórico de jogadas:
+
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+
+
+
+>> Informações gerais:
+
+Labirinto formado por 10 linhas e 12 colunas
+Jogador(a) bateu 0 vez(es) na parede!
+
+Início do jogo: 23/09/2021 00:57:13
+Fim do jogo: 23/09/2021 00:57:35
+
+
+[FIM]
+
+
+
+----------------- LABIRINTOUCE: O JOGO DO LABIRINTO -----------------
+
+>> Histórico de jogadas:
+
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) bateu na parede!
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) bateu na parede!
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para a direita (D)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para a esquerda <3 (A)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) foi para baixo (S)
+Jogador(a) venceu o jogo!
+
+
+>> Informações gerais:
+
+Labirinto formado por 24 linhas e 23 colunas
+Jogador(a) bateu 3 vez(es) na parede!
+
+Início do jogo: 23/09/2021 00:57:36
+Fim do jogo: 23/09/2021 00:58:46
+
+
+[FIM]
+
+
+
