@@ -14,7 +14,7 @@
  * sendo n e m inteiros.
  * 
  * METÓDO GERAL:
- * Função getRandom() retorna um valor aleatório.
+ * Retorna um valor aleatório.
  * 
  * ARQUIVOS INCLUÍDOS:
  * stdlib.h
