@@ -2,6 +2,8 @@
   "files.associations": {
     "playermove.h": "c",
     "time.h": "c",
-    "drawmap.h": "c"
+    "drawmap.h": "c",
+    "checkmove.h": "c",
+    "invalidmove.h": "c"
   }
 }

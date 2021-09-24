@@ -1,3 +1,29 @@
+/**
+ * ARQUIVO: lib/modules/playerMove.h
+ * 
+ * TÍTULO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 2
+ * ENVIADO POR: Gustavo Simões e Izabelle Custodia Teixeira Sebastiao.            
+ *              Todo o código tem como autores Gustavo Simões e Izabelle C. T. Sebastião.
+ * 
+ * CURSO: Linguagem de progrmação 1 do curso de Enhenharia de Computação da UFSC
+ * DATA: 04/09/21 
+ * 
+ *
+ * PROPÓSITO:
+ * Esse código tem como objetivo executar toda a movimentação do(a) jogador(a).
+ * 
+ * MÉTODO GERAL:
+ * Código observa a insersão do usuário via teclado, verifica se o movimento é 
+ * válido e, então, reescreve o mapa com a nova posição do usuário.
+ * 
+ * ARQUIVOS INCLUÍDOS:
+ * stdio.h
+ * global.h
+ * checkMove.h
+ * drawMap.h
+ * invalidMove.h
+ */
+
 #ifndef PLAYER_MOVE_H
 #define PLAYER_MOVE_H
 
@@ -19,6 +45,8 @@ int playerMove()
     fprintf(outputFile, "\n>> Histórico de jogadas:\n\n");
 
     char move;
+    // Enquanto o usuário não vencer o jogo ou
+    // pressionar 'X' este módulo segue em execução.
     while ((move != 'x') && (move != 'X'))
     {
 
