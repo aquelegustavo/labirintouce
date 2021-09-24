@@ -1,3 +1,24 @@
+/**
+ * ARQUIVO: lib/modules/printGameHeader.h
+ * 
+ * TÍTULO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 2
+ * ENVIADO POR: Gustavo Simões e Izabelle Custodia Teixeira Sebastiao.            
+ *              Todo o código tem como autores Gustavo Simões e Izabelle C. T. Sebastião.
+ * 
+ * CURSO: Linguagem de progrmação 1 do curso de Enhenharia de Computação da UFSC
+ * DATA: 04/09/21 
+ * 
+ *
+ * PROPÓSITO:
+ * Código imprimi na tela as informações de início do jogo, 
+ * tais como o título do jogo e controles do teclado que 
+ * devem ser usados pelo(a) jogador(a).
+ * 
+ * ARQUIVOS INCLUÍDOS:
+ * stdio.h
+ * global.h
+ */
+
 #ifndef PRINT_GAME_HEADER_H
 #define PRINT_GAME_HEADER_H
 
