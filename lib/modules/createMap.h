@@ -1,3 +1,24 @@
+/**
+ * ARQUIVO: lib/modules/createMap.h
+ * 
+ * TÍTULO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 2
+ * ENVIADO POR: Gustavo Simões e Izabelle Custodia Teixeira Sebastiao.            
+ *              Todo o código tem como autores Gustavo Simões e Izabelle C. T. Sebastião.
+ * 
+ * CURSO: Linguagem de progrmação 1 do curso de Enhenharia de Computação da UFSC
+ * DATA: 04/09/21 
+ * 
+ * PROPÓSITO:
+ * A crição de um mapa aleatorio em cada partida do jogo, sempre havendo um caminho 
+ * possivel para chegar no fim do labirinto.
+ *
+ * METÓDO GERAL:
+ * Criação de uma matriz com valores aleatórios que consiste no mapa do jogo. 
+ * 
+ * ARQUIVOS INCLUÍDOS:
+ * stdio.h
+ * global.h
+ */
 #ifndef CREATE_MAP_H
 #define CREATE_MAP_H
 
