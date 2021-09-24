@@ -1,3 +1,23 @@
+/**
+ * ARQUIVO: lib/global.h
+ * 
+ * TÍTULO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 2
+ * ENVIADO POR: Gustavo Simões e Izabelle Custodia Teixeira Sebastiao.            
+ *              Todo o código tem como autores Gustavo Simões e Izabelle C. T. Sebastião.
+ * 
+ * CURSO: Linguagem de progrmação 1 do curso de Enhenharia de Computação da UFSC
+ * DATA: 04/09/21 
+ * 
+ *
+ * PROPÓSITO:
+ * Esse código tem como objetivo deglarar globalmente variáveis e valores,
+ * de modo que possam ser usados por todos os componentes do programas.
+ * 
+ * ARQUIVOS INCLUÍDOS:
+ * stdbool.h
+ * getRandom.h
+ */
+
 #ifndef GLOBAL_H
 #define GLOBAL_H
 
