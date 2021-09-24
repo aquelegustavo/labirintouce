@@ -1,3 +1,24 @@
+/**
+ * ARQUIVO: lib/utils/drawMap.h
+ * 
+ * TÍTULO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 2
+ * ENVIADO POR: Gustavo Simões e Izabelle Custodia Teixeira Sebastiao.            
+ *              Todo o código tem como autores Gustavo Simões e Izabelle C. T. Sebastião.
+ * 
+ * CURSO: Linguagem de progrmação 1 do curso de Enhenharia de Computação da UFSC
+ * DATA: 04/09/21 
+ * 
+ * PROPÓSITO:
+ * Este codigo tem como objetivo desenhar mapa do jogo.
+ * 
+ * METÓDO GERAL:
+ * Imprime na tela o caracter referente ao valor da posição (x, y) 
+ * na matriz global.
+ * 
+ * ARQUIVOS INCLUÍDOS:
+ * stdib.h
+ * global.h
+ */
 #ifndef DRAW_MAP_H
 #define DRAW_MAP_H
 
